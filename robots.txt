@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gavul.github.io/sitemap.xml

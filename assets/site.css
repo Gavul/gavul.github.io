@@ -65,3 +65,4 @@ h1{font:700 var(--t-h1)/1.08 var(--font-display);letter-spacing:-.01em;text-tran
 .about ~ .more{padding-bottom:var(--s5)}
 .nums{font:500 1.25rem/1.4 var(--font-display)}
 .tg{display:inline-flex;align-items:center;min-height:44px;color:var(--gold);font:500 1.125rem/1.2 var(--font-display)}
+.after{display:block;margin-top:calc(var(--s2)*-1);font-size:var(--t-small);color:var(--text-2);max-width:var(--measure)}
